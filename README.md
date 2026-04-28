@@ -49,6 +49,6 @@ Ligar para um amigo: Pegar o telefone, destravar a tela, verificar se há sinal,
 
 ## 🚀 Conclusão
 
-Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como uma poderosa ferramenta de aprendizado. 
+Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como uma poderosa ferramenta de aprendizado.  
 Através da prática com prompts e da organização do conhecimento, foi possível construir uma base sólida em lógica de programação.
 
