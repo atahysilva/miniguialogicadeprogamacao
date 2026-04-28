@@ -4,7 +4,6 @@
 
  Projeto desenvolvido para o desafio da DIO, explorando o uso do NotebookLM como ferramenta de aprendizagem.
 
-## 🤖 Engenharia de Prompts e Cicatrizes
 
 ### 🔹 Prompt 1:
 
